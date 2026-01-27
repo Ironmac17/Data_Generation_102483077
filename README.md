@@ -198,6 +198,8 @@ To avoid selecting a model based on a single metric, **TOPSIS** was applied usin
 
 * * * * *
 
+![Result Graph](image.png)
+
 ✅ Final Conclusion
 ------------------
 
